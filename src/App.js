@@ -14,7 +14,7 @@ class App extends Component {
           height="100%"
           width="100%"
         />
-        <p>This portfolio site is a work in progress.</p>
+        <p>This portfolio site is built using React and is a work in progress.</p>
       </div>
     );
   }
